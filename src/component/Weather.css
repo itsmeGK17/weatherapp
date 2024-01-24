@@ -1,0 +1,44 @@
+.search-box {
+    margin-left: 65px;
+    margin-top: 30px;
+    height: 40px;
+    border-radius: 50px;
+    font-size: 20px;
+}
+
+.main-div {
+    width: 400px;
+    height: 350px;
+    background-color: lightblue;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 15px;
+}
+
+.name-search {
+    text-align: center;
+    margin-top: 15px;
+    color: brown;
+    font-size: 30px;
+}
+
+.detail-temp {
+
+    margin: 50px 0px -0px 90px;
+}
+
+.city-min {
+    margin: 40px 0px 0px 80px;
+    color: red;
+    font-weight: lighter;
+    /* margin-bottom: 200px; */
+}
+
+.not-data {
+    margin: 80px 0px 0px 0px;
+
+}
+
+.humidity {
+    margin-top: -15px;
+}
